@@ -4,4 +4,7 @@ int main()
     arr[0] = 1;
     arr[0] = 2;
     arr[0] = 3;
+
+    // The correct way
+    // delete[] arr;
 }
